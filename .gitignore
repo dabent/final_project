@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+stored_model.sav
+twitter.csv
+twitter_with_LDA.csv
